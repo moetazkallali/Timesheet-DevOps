@@ -6,7 +6,7 @@ pipeline {
             steps {
                 echo "Getting Project from Git";
                 sh "rm -rf Timesheet-DevOps"
-                sh "git clone https://github.com/nixen1337/Timesheet-DevOps.git"
+                sh "git clone https://github.com/moetazkallali/Timesheet-DevOps"
                   }
             }
             
